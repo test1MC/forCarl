@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    xml:space="preserve"
+    original="B shiporder.xml"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xml"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="B shiporder.xml.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">12</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V9"
+        tool-name="Lingo"
+        tool-version="9.5.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-orderperson"
+        phase-name="pretrans"><source>John Smith</source><seg-source><mrk
+            mtype="seg"
+            mid="1">John Smith</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-name"
+        phase-name="pretrans"><source>Ola Nordmann</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Ola Nordmann</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-address"
+        phase-name="pretrans"><source>Langgt 23</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Langgt 23</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-city"
+        phase-name="pretrans"><source>4000 Stavanger</source><seg-source><mrk
+            mtype="seg"
+            mid="1">4000 Stavanger</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-country"
+        phase-name="pretrans"><source>Norway</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Norway</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-title"
+        phase-name="pretrans"><source>Empire Burlesque</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Empire Burlesque</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-note"
+        phase-name="pretrans"><source>Special Edition</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Special Edition</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-quantity"
+        phase-name="pretrans"><source>1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-price"
+        phase-name="pretrans"><source>10.90</source><seg-source><mrk
+            mtype="seg"
+            mid="1">10.90</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-title"
+        phase-name="pretrans"><source>Hide your heart</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Hide your heart</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-quantity"
+        phase-name="pretrans"><source>1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-price"
+        phase-name="pretrans"><source>9.90</source><seg-source><mrk
+            mtype="seg"
+            mid="1">9.90</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

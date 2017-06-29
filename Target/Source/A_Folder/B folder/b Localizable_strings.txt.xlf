@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    xml:space="preserve"
+    original="b Localizable_strings.txt"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="plaintext"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="b Localizable_strings.txt.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">46</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V9"
+        tool-name="Lingo"
+        tool-version="9.5.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="string"
+        phase-name="pretrans"><source>This is the new segment</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is the new segment</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="string"
+        phase-name="pretrans"><source>//Memory storage unit (Bytes)Fserver</source><seg-source><mrk
+            mtype="seg"
+            mid="1">//Memory storage unit (Bytes)Fserver</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="string"
+        phase-name="pretrans"><source>"MB"    = "MB";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"MB"    = "MB";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="string"
+        phase-name="pretrans"><source>"GB"    = "GB";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"GB"    = "GB";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="string"
+        phase-name="pretrans"><source>// Other</source><seg-source><mrk
+            mtype="seg"
+            mid="1">// Other</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="string"
+        phase-name="pretrans"><source>// Server Entry</source><seg-source><mrk
+            mtype="seg"
+            mid="1">// Server Entry</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="string"
+        phase-name="pretrans"><source>"AppNameMdm"              = "AirWatch MDM Agent";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"AppNameMdm"              = "AirWatch MDM Agent";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="string"
+        phase-name="pretrans"><source>"Url"                     = "URL";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Url"                     = "URL";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="string"
+        phase-name="pretrans"><source>"UrlExample"              = "https://example.com";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"UrlExample"              = "https://example.com";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="string"
+        phase-name="pretrans"><source>"Save"                    = "Save";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Save"                    = "Save";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="string"
+        phase-name="pretrans"><source>"Error"                   = "Error";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Error"                   = "Error";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="string"
+        phase-name="pretrans"><source>"ServerUrlMessage"        = "Server URL cannot be blank. Please retry.";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"ServerUrlMessage"        = "Server URL cannot be blank.</mrk><mrk
+            mtype="seg"
+            mid="2">Please retry.";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="string"
+        phase-name="pretrans"><source>"Ok"                      = "OK";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Ok"                      = "OK";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="string"
+        phase-name="pretrans"><source>"HostNotReached"          = "Host could not be reached. Please contact your IT Administrator.";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"HostNotReached"          = "Host could not be reached.</mrk><mrk
+            mtype="seg"
+            mid="2">Please contact your IT Administrator.";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="string"
+        phase-name="pretrans"><source>"ServicesUnavailable"     = "Host's services are unavailable. Please contact your IT Administrator.";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"ServicesUnavailable"     = "Host's services are unavailable.</mrk><mrk
+            mtype="seg"
+            mid="2">Please contact your IT Administrator.";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="string"
+        phase-name="pretrans"><source>"LoadingElipses"       = "Loading...";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"LoadingElipses"       = "Loading...";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="string"
+        phase-name="pretrans"><source>// Passcode</source><seg-source><mrk
+            mtype="seg"
+            mid="1">// Passcode</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="string"
+        phase-name="pretrans"><source>"AdminPasscode"         = "Passcode";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"AdminPasscode"         = "Passcode";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="string"
+        phase-name="pretrans"><source>"PasscodeEntryHeader"   = "This page is locked. You must enter the admin passcode to access this page";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"PasscodeEntryHeader"   = "This page is locked.</mrk><mrk
+            mtype="seg"
+            mid="2">You must enter the admin passcode to access this page";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="string"
+        phase-name="pretrans"><source>// Intial Setup</source><seg-source><mrk
+            mtype="seg"
+            mid="1">// Intial Setup</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="21"
+        restype="string"
+        phase-name="pretrans"><source>"NotEnrolled"              = "Not Enrolled";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"NotEnrolled"              = "Not Enrolled";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="22"
+        restype="string"
+        phase-name="pretrans"><source>"DeviceNotMdmEnrolled"      = "This device is currently not MDM enrolled. Enroll now?";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"DeviceNotMdmEnrolled"      = "This device is currently not MDM enrolled.</mrk><mrk
+            mtype="seg"
+            mid="2">Enroll now?";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="23"
+        restype="string"
+        phase-name="pretrans"><source>"No"                        = "No";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"No"                        = "No";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="24"
+        restype="string"
+        phase-name="pretrans"><source>"Yes"                       = "Yes";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Yes"                       = "Yes";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="25"
+        restype="string"
+        phase-name="pretrans"><source>"AppName"                   = "AirWatch Agent";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"AppName"                   = "AirWatch Agent";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="26"
+        restype="string"
+        phase-name="pretrans"><source>// My Device Tab</source><seg-source><mrk
+            mtype="seg"
+            mid="1">// My Device Tab</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="27"
+        restype="string"
+        phase-name="pretrans"><source>"MyDevice"                  = "My Device";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"MyDevice"                  = "My Device";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="28"
+        restype="string"
+        phase-name="pretrans"><source>"Compliant"                 = "Compliant";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Compliant"                 = "Compliant";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="29"
+        restype="string"
+        phase-name="pretrans"><source>"NotCompliant"              = "Not Compliant";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"NotCompliant"              = "Not Compliant";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="30"
+        restype="string"
+        phase-name="pretrans"><source>"ConnectivityIssue"         = "Connectivity Issue";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"ConnectivityIssue"         = "Connectivity Issue";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="31"
+        restype="string"
+        phase-name="pretrans"><source>"ConnectivityNormal"        = "Connectivity Normal";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"ConnectivityNormal"        = "Connectivity Normal";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="32"
+        restype="string"
+        phase-name="pretrans"><source>"Information"               = "Information";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Information"               = "Information";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="33"
+        restype="string"
+        phase-name="pretrans"><source>"DeviceDetails"             = "Device Details";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"DeviceDetails"             = "Device Details";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="34"
+        restype="string"
+        phase-name="pretrans"><source>"EnrollmentStatus"          = "Enrollment Status";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"EnrollmentStatus"          = "Enrollment Status";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="35"
+        restype="string"
+        phase-name="pretrans"><source>"Advanced"                  = "Advanced";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Advanced"                  = "Advanced";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="36"
+        restype="string"
+        phase-name="pretrans"><source>"Enrolled"                  = "Enrolled";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Enrolled"                  = "Enrolled";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="37"
+        restype="string"
+        phase-name="pretrans"><source>"Unenrolled"                = "Unenrolled";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Unenrolled"                = "Unenrolled";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="38"
+        restype="string"
+        phase-name="pretrans"><source>"EnrollmentOverview"        = "Enrollment Overview";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"EnrollmentOverview"        = "Enrollment Overview";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="39"
+        restype="string"
+        phase-name="pretrans"><source>"ServerUrl"                 = "Server URL";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"ServerUrl"                 = "Server URL";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="40"
+        restype="string"
+        phase-name="pretrans"><source>"GroupId"                   = "Group ID";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"GroupId"                   = "Group ID";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="41"
+        restype="string"
+        phase-name="pretrans"><source>"Username"                  = "Username:";</source><seg-source><mrk
+            mtype="seg"
+            mid="1">"Username"                  = "Username:";</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

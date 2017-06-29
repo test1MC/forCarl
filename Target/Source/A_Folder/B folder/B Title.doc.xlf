@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    xml:space="preserve"
+    original="B Title.doc"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-doc"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="B Title.doc.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">6</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V9"
+        tool-name="Lingo"
+        tool-version="9.5.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="1" style="color:#B01513;"&gt;</bpt>Title tags<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="1" style="color:#B01513;"&gt;</bpt>Title tags<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="2" style="color:#B01513;"&gt;</bpt>Heading with tags<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="2" style="color:#B01513;"&gt;</bpt>Heading with tags<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="word"
+        phase-name="pretrans"><source>To take advantage of this template’s design, use the Styles gallery on the Home tab. You can format your headings by using heading styles, or highlight important text using other styles, like Emphasis and Intense Quote. These styles come in formatted to look great and work together to help communicate your ideas.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">To take advantage of this template’s design, use the Styles gallery on the Home tab.</mrk><mrk
+            mtype="seg"
+            mid="2">You can format your headings by using heading styles, or highlight important text using other styles, like Emphasis and Intense Quote.</mrk><mrk
+            mtype="seg"
+            mid="3">These styles come in formatted to look great and work together to help communicate your ideas.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="word"
+        phase-name="pretrans"><source>Go ahead and get started.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Go ahead and get started.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

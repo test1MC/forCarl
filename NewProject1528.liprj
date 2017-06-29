@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6">
+    <ProjectFile Source="Source/Source/%2A.png;%2A.bmp;%2A.jpg;%2A.jpeg;%2A.tif;%2A.tiff;%2A.gif;%2A.hdp;%2A.wdp;%2A.props;%2A.doc;%2A.docx;%2A.ppt;%2A.pptx;%2A.xls;%2A.xlsx;%2A.htm;%2A.html;%2A.mif;%2A.fm;%2A.xlf;%2A.txt;%2A.strings;%2A.resx;%2A.rtf;%2A.dita;%2A.xml;%2A.xml;%2A.txml;%2A.ttx;%2A.sdlxliff;%2A.properties;%2A.sql;%2A.zip" Target="Target/Source/%2A.png;%2A.bmp;%2A.jpg;%2A.jpeg;%2A.tif;%2A.tiff;%2A.gif;%2A.hdp;%2A.wdp;%2A.props;%2A.doc;%2A.docx;%2A.ppt;%2A.pptx;%2A.xls;%2A.xlsx;%2A.htm;%2A.html;%2A.mif;%2A.fm;%2A.xlf;%2A.txt;%2A.strings;%2A.resx;%2A.rtf;%2A.dita;%2A.xml;%2A.xml;%2A.txml;%2A.ttx;%2A.sdlxliff;%2A.properties;%2A.sql;%2A.zip" />
+</LingoProject>

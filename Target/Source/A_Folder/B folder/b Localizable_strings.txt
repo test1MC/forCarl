@@ -1,0 +1,54 @@
+This is the new segment
+//Memory storage unit (Bytes)Fserver
+"MB"    = "MB";
+"GB"    = "GB";
+
+// Other
+
+
+// Server Entry
+
+"AppNameMdm"              = "AirWatch MDM Agent";
+"Url"                     = "URL";
+"UrlExample"              = "https://example.com";
+"Save"                    = "Save";
+"Error"                   = "Error";
+"ServerUrlMessage"        = "Server URL cannot be blank. Please retry.";
+"Ok"                      = "OK";
+
+"HostNotReached"          = "Host could not be reached. Please contact your IT Administrator.";
+"ServicesUnavailable"     = "Host's services are unavailable. Please contact your IT Administrator.";
+
+"LoadingElipses"       = "Loading...";
+
+// Passcode
+
+"AdminPasscode"         = "Passcode";
+
+"PasscodeEntryHeader"   = "This page is locked. You must enter the admin passcode to access this page";
+
+// Intial Setup
+
+"NotEnrolled"              = "Not Enrolled";
+"DeviceNotMdmEnrolled"      = "This device is currently not MDM enrolled. Enroll now?";
+"No"                        = "No";
+"Yes"                       = "Yes";
+"AppName"                   = "AirWatch Agent";
+
+// My Device Tab
+"MyDevice"                  = "My Device";
+"Compliant"                 = "Compliant";
+"NotCompliant"              = "Not Compliant";
+"ConnectivityIssue"         = "Connectivity Issue";
+"ConnectivityNormal"        = "Connectivity Normal";
+"Information"               = "Information";
+"DeviceDetails"             = "Device Details";
+"EnrollmentStatus"          = "Enrollment Status";
+"Advanced"                  = "Advanced";
+
+"Enrolled"                  = "Enrolled";
+"Unenrolled"                = "Unenrolled";
+"EnrollmentOverview"        = "Enrollment Overview";
+"ServerUrl"                 = "Server URL";
+"GroupId"                   = "Group ID";
+"Username"                  = "Username:";

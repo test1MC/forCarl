@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shiporder orderid="889923" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="shiporder.xsd">
+    <orderperson>砻קยด1ตว融</orderperson>
+    <shipto>
+        <name>砻קยด2ตว融</name>
+        <address>砻קยด3ตว融</address>
+        <city>砻קยด4ตว融</city>
+        <country>砻קยด5ตว融</country>
+    </shipto>
+    <item>
+        <title>砻קยด6ตว融</title>
+        <note>砻קยด7ตว融</note>
+        <quantity>砻קยด8ตว融</quantity>
+        <price>砻קยด9ตว融</price>
+    </item>
+    <item>
+        <title>砻קยด10ตว融</title>
+        <quantity>砻קยด11ตว融</quantity>
+        <price>砻קยด12ตว融</price>
+    </item>
+</shiporder>

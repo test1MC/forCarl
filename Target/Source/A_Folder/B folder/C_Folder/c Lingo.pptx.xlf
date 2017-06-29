@@ -1,0 +1,720 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <file
+    xml:space="preserve"
+    original="c Lingo.pptx"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-pptx"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="c Lingo.pptx.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">59</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo V9"
+        tool-name="Lingo"
+        tool-version="9.5.0.0"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="word"
+        phase-name="pretrans"><source>This is the new segment</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is the new segment</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="word"
+        phase-name="pretrans"><source>Welcome <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="3"&gt;</bpt>to<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Welcome <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="3"&gt;</bpt>to<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="word"
+        phase-name="pretrans"><source>How to properly prepare and execute a translation project in <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="5"&gt;</bpt>MadCap<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="6"&gt;</bpt> Lingo<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">How to properly prepare and execute a translation project in <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="5"&gt;</bpt>MadCap<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="6"&gt;</bpt> Lingo<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="word"
+        phase-name="pretrans"><source>Presented by: </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Presented by:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="9"&gt;</bpt>Peter Argondizzo<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="9"&gt;</bpt>Peter Argondizzo<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="word"
+        phase-name="pretrans"><source>WHAT WE HOPE TO ACCOMPLISH</source><seg-source><mrk
+            mtype="seg"
+            mid="1">WHAT WE HOPE TO ACCOMPLISH</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="word"
+        phase-name="pretrans"><source>Learn how to execute a project in Lingo  step-by-step</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Learn how to execute a project in Lingo  step-by-step</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="word"
+        phase-name="pretrans"><source>Conditional Text/Snippets</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Conditional Text/Snippets</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="word"
+        phase-name="pretrans"><source>Signaling the translation services team on what to translate</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Signaling the translation services team on what to translate</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="word"
+        phase-name="pretrans"><source>Translation memory considerations</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Translation memory considerations</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="word"
+        phase-name="pretrans"><source>Basic concerns and things to watch out for</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Basic concerns and things to watch out for</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="word"
+        phase-name="pretrans"><source>Expansion of translated content</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Expansion of translated content</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="word"
+        phase-name="pretrans"><source>R to L languages</source><seg-source><mrk
+            mtype="seg"
+            mid="1">R to L languages</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="word"
+        phase-name="pretrans"><source>Dealing with screen caps</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Dealing with screen caps</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="word"
+        phase-name="pretrans"><source>WHY USE LINGO?</source><seg-source><mrk
+            mtype="seg"
+            mid="1">WHY USE LINGO?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="word"
+        phase-name="pretrans"><source>Savings</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Savings</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="word"
+        phase-name="pretrans"><source>Consistency</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Consistency</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="word"
+        phase-name="pretrans"><source>Time</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Time</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="word"
+        phase-name="pretrans"><source>TRANSLATION MEMORY</source><seg-source><mrk
+            mtype="seg"
+            mid="1">TRANSLATION MEMORY</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="36" style="font-weight:bold;"&gt;</bpt>FUZZY Match<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="36" style="font-weight:bold;"&gt;</bpt>FUZZY Match<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="21"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="38" style="font-weight:bold;"&gt;</bpt>Document a<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="38" style="font-weight:bold;"&gt;</bpt>Document a<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="22"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="40" style="font-weight:bold;"&gt;</bpt>Document b<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="40" style="font-weight:bold;"&gt;</bpt>Document b<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="23"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="44" style="font-weight:bold;"&gt;</bpt>REPETITION<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="44" style="font-weight:bold;"&gt;</bpt>REPETITION<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="24"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="46" style="font-weight:bold;"&gt;</bpt>Document a<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="46" style="font-weight:bold;"&gt;</bpt>Document a<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="25"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="48" style="font-weight:bold;"&gt;</bpt>Document b<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="48" style="font-weight:bold;"&gt;</bpt>Document b<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="26"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="52" style="font-weight:bold;"&gt;</bpt>100% Match<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="52" style="font-weight:bold;"&gt;</bpt>100% Match<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="27"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="54" style="font-weight:bold;"&gt;</bpt>Document a<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="54" style="font-weight:bold;"&gt;</bpt>Document a<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="28"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="56" style="font-weight:bold;"&gt;</bpt>Document b<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="56" style="font-weight:bold;"&gt;</bpt>Document b<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="29"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="58" style="font-weight:bold;"&gt;</bpt>Examples in text and <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="58" style="font-weight:bold;"&gt;</bpt>Examples in text and <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="30"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="60"&gt;</bpt>not <ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="61"&gt;</bpt>in fruit<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="60"&gt;</bpt>not <ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="61"&gt;</bpt>in fruit<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="31"
+        restype="word"
+        phase-name="pretrans"><source>A fuzzy-match example would be:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">A fuzzy-match example would be:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="32"
+        restype="word"
+        phase-name="pretrans"><source>NEW: Please select the print option to print out all selected reports.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">NEW: Please select the print option to print out all selected reports.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="33"
+        restype="word"
+        phase-name="pretrans"><source>OLD: Please choose the print option to print out all selected reports.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">OLD: Please choose the print option to print out all selected reports.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="34"
+        restype="word"
+        phase-name="pretrans"><source>A 100% example would be:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">A 100% example would be:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="35"
+        restype="word"
+        phase-name="pretrans"><source>NEW: Please select the print option to print out all selected reports.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">NEW: Please select the print option to print out all selected reports.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="36"
+        restype="word"
+        phase-name="pretrans"><source>OLD: Please select the print option to print out all selected reports.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">OLD: Please select the print option to print out all selected reports.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="37"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="72" style="font-weight:bold;"&gt;</bpt>Project prep<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="72" style="font-weight:bold;"&gt;</bpt>Project prep<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="38"
+        restype="word"
+        phase-name="pretrans"><source>{DEMO}</source><seg-source><mrk
+            mtype="seg"
+            mid="1">{DEMO}</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="39"
+        restype="word"
+        phase-name="pretrans"><source>CONDITIONALIZING TEXT</source><seg-source><mrk
+            mtype="seg"
+            mid="1">CONDITIONALIZING TEXT</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="40"
+        restype="word"
+        phase-name="pretrans"><source>Why is partial sentence conditionalizing a problem?</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Why is partial sentence conditionalizing a problem?</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="41"
+        restype="word"
+        phase-name="pretrans"><source>• Reverse word order</source><seg-source><mrk
+            mtype="seg"
+            mid="1">• Reverse word order</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="42"
+        restype="word"
+        phase-name="pretrans"><source>• Gender and number</source><seg-source><mrk
+            mtype="seg"
+            mid="1">• Gender and number</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="43"
+        restype="word"
+        phase-name="pretrans"><source>• Declensions (endings)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">• Declensions (endings)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="44"
+        restype="word"
+        phase-name="pretrans"><source>• Reduction of effectiveness of translation memory</source><seg-source><mrk
+            mtype="seg"
+            mid="1">• Reduction of effectiveness of translation memory</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="45"
+        restype="word"
+        phase-name="pretrans"><source>GET EVERYTHING INTO A </source><seg-source><mrk
+            mtype="seg"
+            mid="1">GET EVERYTHING INTO A</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="46"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="88"&gt;</bpt>TEXT LAYER<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;run rid="88"&gt;</bpt>TEXT LAYER<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/run&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="47"
+        restype="word"
+        phase-name="pretrans"><source>USE CAPTURE IN THE MADPAK SUITE</source><seg-source><mrk
+            mtype="seg"
+            mid="1">USE CAPTURE IN THE MADPAK SUITE</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="48"
+        restype="word"
+        phase-name="pretrans"><source>Callouts should be in a text layer to …</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Callouts should be in a text layer to …</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="49"
+        restype="word"
+        phase-name="pretrans"><source>Save DTP fees</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Save DTP fees</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="50"
+        restype="word"
+        phase-name="pretrans"><source>Avoid redoing the images on updates</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Avoid redoing the images on updates</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="51"
+        restype="word"
+        phase-name="pretrans"><source>Save time and capture the content in TM</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Save time and capture the content in TM</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="52"
+        restype="word"
+        phase-name="pretrans"><source>Why hard returns cause an issue</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Why hard returns cause an issue</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="53"
+        restype="word"
+        phase-name="pretrans"><source>Segmentation</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Segmentation</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="54"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="99" style="font-weight:bold;"&gt;</bpt>Translation phase<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="99" style="font-weight:bold;"&gt;</bpt>Translation phase<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="55"
+        restype="word"
+        phase-name="pretrans"><source>{DEMO}</source><seg-source><mrk
+            mtype="seg"
+            mid="1">{DEMO}</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="56"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="106" style="font-weight:bold;"&gt;</bpt>QA PHASE<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="106" style="font-weight:bold;"&gt;</bpt>QA PHASE<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="57"
+        restype="word"
+        phase-name="pretrans"><source>{DEMO}</source><seg-source><mrk
+            mtype="seg"
+            mid="1">{DEMO}</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="58"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="113" style="font-weight:bold;"&gt;</bpt>EXPORT to flare phase<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="113" style="font-weight:bold;"&gt;</bpt>EXPORT to flare phase<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="59"
+        restype="word"
+        phase-name="pretrans"><source>{DEMO}</source><seg-source><mrk
+            mtype="seg"
+            mid="1">{DEMO}</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>
